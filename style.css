@@ -39,12 +39,16 @@ body{
     background-color: #f5d9e7;
     padding: 20px;
     margin: 50px;
+    clear: both;
+    overflow: auto;
 }
 
 .celeste {
     background-color: #e2edfc;
     padding: 20px;
     margin: 50px;
+    clear: both;
+    overflow: auto;
 }
 
 header {
