@@ -6,11 +6,6 @@ p{
     text-align: justify;
 }
 
-.foto {
-    width: 450px;
-    height: 280px;
-}
-
 h1{
     color: #203259;
     text-align: center;
@@ -80,4 +75,18 @@ nav a{
 
 div{
     text-align: center;
+}
+
+.foto-izquierda{
+    float: left;
+    width: 450px;
+    height: 280px;
+    margin-right: 20px;
+}
+
+.foto-derecha{
+    float: right;
+    width: 450px;
+    height: 280px;
+    margin-left: 20px;
 }
