@@ -30,20 +30,29 @@ body{
 
 section{
     background-color:#fff3d6;
+    width: 85%;
+    margin: 30px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow: auto;
 }
 
 .rosa {
     background-color: #f5d9e7;
-    padding: 20px;
-    margin: 50px;
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    box-sizing: border-box;
     clear: both;
     overflow: auto;
 }
 
 .celeste {
     background-color: #e2edfc;
-    padding: 20px;
-    margin: 50px;
+    width: 90%;
+    padding: 15px;
+    margin: 20px auto;
+    box-sizing: border-box;
     clear: both;
     overflow: auto;
 }
