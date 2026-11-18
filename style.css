@@ -74,6 +74,6 @@ nav a{
 }
 
 .logo {
-    text-align: center;
-    margin: auto;
+    width: 150px;
+    height: auto;
 }
