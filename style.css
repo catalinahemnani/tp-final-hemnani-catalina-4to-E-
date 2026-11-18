@@ -47,3 +47,9 @@ body{
     padding: 20px;
     margin: 20px;
 }
+header {
+    background-color: #182d4a;
+}
+.indice {
+    background-color: aqua;
+}
