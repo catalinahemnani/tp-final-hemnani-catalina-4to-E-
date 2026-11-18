@@ -83,25 +83,31 @@ nav a{
     height: auto;
 }
 
-div{
+div {
     text-align: center;
 }
 
-.foto-izquierda{
+.foto-izquierda {
     float: left;
     width: 450px;
     height: 280px;
     margin-right: 20px;
 }
 
-.foto-derecha{
+.foto-derecha {
     float: right;
     width: 450px;
     height: 280px;
     margin-left: 20px;
 }
 
-.foto{
+.foto {
     width: 450px;
     height: 280px;
+}
+
+.imagenes-inicio {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
