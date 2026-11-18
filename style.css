@@ -1,8 +1,9 @@
 p{
     color: black;
     font-size: 1em;
-    font-family: "Times New Roman";
+    font-family: "Arial";
     font-weight: bold;
+    text-align: justify;
 }
 
 img{
@@ -13,15 +14,19 @@ img{
 h1{
     color: #203259;
     text-align: center;
+    font-family: "Arial";
 }
 
 h2{
     color: #a64d79;
     text-align: center;
+    font-family: "Arial";
 }
 
 h3{
     color: #526Da0;
+    font-family: "Arial";
+    text-align: left;
 }
 
 li{
