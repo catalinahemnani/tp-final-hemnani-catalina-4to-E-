@@ -24,13 +24,6 @@ h3{
     text-align: left;
 }
 
-li{
-    color: black;
-    font-size: 1em;
-    font-family: "Times New Roman";
-    font-weight: bold;
-}
-
 body{
     background-color: #fff3d6;
 }
@@ -70,6 +63,7 @@ nav a{
     background-color: #f5d9e7;
     padding: 10px;
     color: black;
+    font-family: "Arial";
 }
 
 .logo {
