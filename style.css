@@ -50,8 +50,12 @@ body{
 
 header {
     background-color: pink;
+    padding: 5px;
+    margin: 20px;
 }
 
 .indice {
     background-color: aqua;
+    padding: 5px;
+    margin: 20px;
 }
