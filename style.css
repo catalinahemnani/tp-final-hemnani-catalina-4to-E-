@@ -64,3 +64,8 @@ nav ul{
     padding: 5px;
     margin: 10px;
 }
+
+.logo {
+    text-align: center;
+    margin: auto;
+}
