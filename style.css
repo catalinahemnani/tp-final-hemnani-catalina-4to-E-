@@ -60,6 +60,8 @@ header {
 
 nav {
     background-color: aqua;
+    justify-content: center;
+    gap: 20px;
     display: flex;
     padding: 10px;
     margin: 10px;
