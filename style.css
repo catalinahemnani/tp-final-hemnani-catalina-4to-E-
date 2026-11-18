@@ -34,7 +34,6 @@ li{
     font-size: 1em;
     font-family: "Times New Roman";
     font-weight: bold;
-    list-style-type: circle;
 }
 
 body{
@@ -59,10 +58,17 @@ header {
     margin: 10px;
 }
 
-nav ul{
+nav {
     background-color: aqua;
-    padding: 5px;
+    display: flex;
+    padding: 10px;
     margin: 10px;
+}
+
+nav a{
+    background-color: #f5d9e7;
+    padding: 10px;
+    color: black;
 }
 
 .logo {
