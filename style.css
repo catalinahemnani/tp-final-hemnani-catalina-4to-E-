@@ -79,6 +79,13 @@ nav a{
     color: white;
     font-family: "Arial", sans-serif;
     font-weight:bold;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+nav a:hover{
+    background-color: #a9d5f5;
+    color: #214e9b;
 }
 
 .logo {
