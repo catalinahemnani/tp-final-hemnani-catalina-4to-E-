@@ -7,29 +7,29 @@ p{
 }
 
 h1{
-    color: #203259;
+    color: #214e9b;
     text-align: center;
     font-family: "Waltograph";
 }
 
 h2{
-    color: #a64d79;
+    color: #214e9b;
     text-align: center;
     font-family: "Arial";
 }
 
 h3{
-    color: #526Da0;
+    color: #214e9b;
     font-family: "Arial";
     text-align: left;
 }
 
 body{
-    background-color: #d6d2c5;
+    background-color: #fff9f0;
 }
 
 section{
-    background-color:#fff3d6;
+    background-color:#fffcf7;
     width: 85%;
     margin: 30px auto;
     padding: 20px;
@@ -38,7 +38,7 @@ section{
 }
 
 .rosa {
-    background-color: #f5d9e7;
+    background-color: #f4d6e5;
     width: 90%;
     margin: 20px auto;
     padding: 15px;
@@ -48,7 +48,7 @@ section{
 }
 
 .celeste {
-    background-color: #e2edfc;
+    background-color: #d8eaf9;
     width: 90%;
     padding: 15px;
     margin: 20px auto;
@@ -58,13 +58,13 @@ section{
 }
 
 header {
-    background-color: pink;
+    background-color: #a9d5f5;
     padding: 5px;
     margin: 10px;
 }
 
 nav {
-    background-color: aqua;
+    background-color: #214e9b;
     justify-content: center;
     gap: 20px;
     display: flex;
@@ -73,9 +73,7 @@ nav {
 }
 
 nav a{
-    background-color: #f5d9e7;
-    padding: 10px;
-    color: black;
+    color: white;
     font-family: "Arial";
 }
 
@@ -100,15 +98,18 @@ div {
     width: 450px;
     height: 280px;
     margin-left: 20px;
+    border: 3px solid #d8b66b;
 }
 
 .foto {
     width: 450px;
     height: 280px;
+    border: 3px solid #d8b66b;
 }
 
 .imagenes-inicio {
     display: flex;
     justify-content: center;
     gap: 30px;
+    border: 3px solid #d8b66b;
 }
