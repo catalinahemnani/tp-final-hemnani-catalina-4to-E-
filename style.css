@@ -120,5 +120,13 @@ div {
 }
 
 .imagenes-inicio img{
-     border: 4px solid #d8b66b;
+    border: 4px solid #d8b66b;
+}
+
+footer{
+    color: white;
+    background-color: #214e9b;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
 }
