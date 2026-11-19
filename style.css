@@ -1,31 +1,35 @@
 p{
     color: black;
-    font-size: 1em;
-    font-family: "Arial";
+    font-size: 16px;
+    font-family: "Arial", sans-serif;
     font-weight: bold;
     text-align: justify;
+    line-height: 1.5;
 }
 
 h1{
     color: #214e9b;
     text-align: center;
-    font-family: "Waltograph";
+    font-family: "Georgia", serif;
+    font-size: 40px;
 }
 
 h2{
     color: #214e9b;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Georgia", serif;
+    font-size: 28px;
 }
 
 h3{
     color: #214e9b;
-    font-family: "Arial";
+    font-family: "Georgia", serif;
     text-align: left;
+    font-size: 24px
 }
 
 body{
-    background-color: #fff9f0;
+    background-color: #ffe7c3;
 }
 
 section{
@@ -74,7 +78,8 @@ nav {
 
 nav a{
     color: white;
-    font-family: "Arial";
+    font-family: "Arial", sans-serif;
+    font-weight:bold;
 }
 
 .logo {
